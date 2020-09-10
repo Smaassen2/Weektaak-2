@@ -1,0 +1,3 @@
+x = 
+(len)x
+(x.count("C") + x.count("G")) / len(x) * 100
